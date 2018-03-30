@@ -14,6 +14,7 @@
 		F73A9C4C206DA03900B4A35D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F73A9C4B206DA03900B4A35D /* Assets.xcassets */; };
 		F73A9C4F206DA03900B4A35D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F73A9C4D206DA03900B4A35D /* LaunchScreen.storyboard */; };
 		F7AED4F4206DB2BE000FBCED /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7AED4F3206DB2BE000FBCED /* Task.swift */; };
+		F7AED4F6206DC035000FBCED /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7AED4F5206DC035000FBCED /* CreateTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		F73A9C4E206DA03900B4A35D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F73A9C50206DA03900B4A35D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F7AED4F3206DB2BE000FBCED /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		F7AED4F5206DC035000FBCED /* CreateTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F73A9C41206DA03900B4A35D /* AppDelegate.swift */,
 				F73A9C43206DA03900B4A35D /* ViewController.swift */,
 				F73A9C45206DA03900B4A35D /* Main.storyboard */,
+				F7AED4F5206DC035000FBCED /* CreateTaskViewController.swift */,
 				F7AED4F3206DB2BE000FBCED /* Task.swift */,
 				F73A9C4B206DA03900B4A35D /* Assets.xcassets */,
 				F73A9C4D206DA03900B4A35D /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 				F73A9C4A206DA03900B4A35D /* DoIt.xcdatamodeld in Sources */,
 				F73A9C44206DA03900B4A35D /* ViewController.swift in Sources */,
 				F73A9C42206DA03900B4A35D /* AppDelegate.swift in Sources */,
+				F7AED4F6206DC035000FBCED /* CreateTaskViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
